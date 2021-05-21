@@ -3,6 +3,6 @@
 
 Redstone Guy's software website with exe version of RedWare
 
-Go to the website!:
+Go to the website!: No releases currently.
 
-Download of the latest version:
+Download of the latest version: No releases currently.
